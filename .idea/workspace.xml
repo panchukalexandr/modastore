@@ -2,68 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3250c809-bd4c-4a0a-95ed-1d7c90d2d7ea" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbad6316b59.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbad6316b59.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbad63346a1.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbad63346a1.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbad634558a.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbad634558a.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbad6347a6b.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbad6347a6b.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbad634aee1.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbad634aee1.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbad634fee7.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbad634fee7.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbad6352d36.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbad6352d36.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbad6356798.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbad6356798.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbad6358b57.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbad6358b57.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbad635b951.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbad635b951.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbad6dbcd8e.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbad6dbcd8e.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbad6ddb9fd.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbad6ddb9fd.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbad6dde829.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbad6dde829.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbad6de1e29.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbad6de1e29.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbad6de470e.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbad6de470e.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbad6de797d.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbad6de797d.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbad6dea6cc.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbad6dea6cc.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbad6e04b88.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbad6e04b88.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbad6e099e1.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbad6e099e1.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbad6e0c819.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbad6e0c819.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbad710f3d2.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbad710f3d2.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbad712f968.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbad712f968.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbad71348a8.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbad71348a8.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbad7138a55.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbad7138a55.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbad713b6c2.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbad713b6c2.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbad7143b81.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbad7143b81.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbad7145dfc.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbad7145dfc.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbad714fc1a.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbad714fc1a.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbad71525bd.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbad71525bd.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbadae2b2cf.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbadae2b2cf.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbadaec4686.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbadaec4686.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbadaeca50c.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbadaeca50c.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbadaed2d56.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbadaed2d56.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbadaedcfa5.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbadaedcfa5.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbadaeec332.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbadaeec332.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbadaef38f4.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbadaef38f4.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbadaf061df.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbadaf061df.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbadaf1347f.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbadaf1347f.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbaddc70880.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbaddc70880.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbaddd9dd30.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbaddd9dd30.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbaddda0cbb.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbaddda0cbb.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbadddaf77f.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbadddaf77f.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbadddc5746.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbadddc5746.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbadddcbf56.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbadddcbf56.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbadddd2739.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbadddd2739.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbadddd8ed5.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbadddd8ed5.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbaddde7d1c.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbaddde7d1c.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbade4e5d08.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbade4e5d08.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbade5462cc.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbade5462cc.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbade54ef51.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbade54ef51.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbade55b23f.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbade55b23f.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbade56184c.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbade56184c.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbade56cc1b.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbade56cc1b.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbade57786a.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbade57786a.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbade5821b4.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbade5821b4.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbade589f31.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbade589f31.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/59dbade59287f.data" afterPath="$PROJECT_DIR$/runtime/debug/59dbade59287f.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/costa-rico/yii2-images" afterPath="$PROJECT_DIR$/vendor/costa-rico/yii2-images" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/db.php" afterPath="$PROJECT_DIR$/config/db.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/index.data" afterPath="$PROJECT_DIR$/runtime/debug/index.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/logs/app.log" afterPath="$PROJECT_DIR$/runtime/logs/app.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -75,11 +16,31 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="db.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="db.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/db.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
               <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.htaccess">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16">
+              <caret line="1" column="27" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/.htaccess">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -94,6 +55,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/config/db.php" />
+        <option value="$PROJECT_DIR$/.htaccess" />
       </list>
     </option>
   </component>
@@ -138,20 +100,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modastore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modastore" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -171,6 +119,69 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
@@ -181,18 +192,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1507570619525</updated>
-      <workItem from="1507570623652" duration="593000" />
+      <workItem from="1507570623652" duration="727000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="593000" />
+    <option name="totallyTimeSpent" value="727000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1366" height="719" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -226,6 +236,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="27" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
