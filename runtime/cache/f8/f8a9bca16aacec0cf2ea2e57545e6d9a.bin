@@ -1,0 +1,79 @@
+a:2:{i:0;s:2013:"<li class=""  data-id="1" >
+    <a href="/category/1">
+        Одежда для мальчиков                    <span class="badge pull-right">
+                <i class="fa fa-plus"></i>
+            </span>
+            </a>
+    <!--        <ul class="category subs">-->
+        <ul class="subs">
+            <li class=""  data-id="5" >
+    <a href="/category/5">
+        Верхняя одежда                    <span class="badge pull-right">
+                <i class="fa fa-plus"></i>
+            </span>
+            </a>
+    <!--        <ul class="category subs">-->
+        <ul class="subs">
+            <li class=""  data-id="22" >
+    <a href="/category/22">
+        Куртки            </a>
+    </li>
+
+<li class=""  data-id="23" >
+    <a href="/category/23">
+        Комбинезоны            </a>
+    </li>
+
+        </ul>
+    </li>
+
+<li class=""  data-id="6" >
+    <a href="/category/6">
+        Штаны и джинсы            </a>
+    </li>
+
+<li class=""  data-id="21" >
+    <a href="/category/21">
+        Футболки и майки            </a>
+    </li>
+
+        </ul>
+    </li>
+
+<li class=""  data-id="3" >
+    <a href="/category/3">
+        Одежда для девочек                     <span class="badge pull-right">
+                <i class="fa fa-plus"></i>
+            </span>
+            </a>
+    <!--        <ul class="category subs">-->
+        <ul class="subs">
+            <li class=""  data-id="7" >
+    <a href="/category/7">
+        Dior            </a>
+    </li>
+
+<li class=""  data-id="8" >
+    <a href="/category/8">
+        Armani            </a>
+    </li>
+
+<li class=""  data-id="13" >
+    <a href="/category/13">
+        Stone Island            </a>
+    </li>
+
+        </ul>
+    </li>
+
+<li class=""  data-id="4" >
+    <a href="/category/4">
+        Игрушки и аксессуары             </a>
+    </li>
+
+<li class=""  data-id="14" >
+    <a href="/category/14">
+        Для малышей            </a>
+    </li>
+
+";i:1;N;}
