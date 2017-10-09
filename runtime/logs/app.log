@@ -22003,3 +22003,119 @@ $_SERVER = [
     'REQUEST_TIME_FLOAT' => 1507567301.282
     'REQUEST_TIME' => 1507567301
 ]
+2017-10-09 17:25:57 [127.0.0.1][-][tj4f1525j12fa1s8k1ok3ka0b1][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "web/". in /var/www/modastore/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/modastore/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('web/', Array)
+#1 /var/www/modastore/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /var/www/modastore/web/index.php(15): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°. in /var/www/modastore/vendor/yiisoft/yii2/web/Application.php:114
+Stack trace:
+#0 /var/www/modastore/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /var/www/modastore/web/index.php(15): yii\base\Application->run()
+#2 {main}
+2017-10-09 17:25:57 [127.0.0.1][-][tj4f1525j12fa1s8k1ok3ka0b1][info][application] $_COOKIE = [
+    'PHPSESSID' => 'tj4f1525j12fa1s8k1ok3ka0b1'
+    '_csrf' => '3392bc2fb73b1f3b5dc0fb2c545f284fbe6b90eb7c59fe9e6c1d2bd39eaec21ca:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"Ëhv?ÍÕFàÍõWS†ïf€ÁË©¡üXF,ChM-÷\";}'
+    'dcjq-accordion' => '0,1,2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'imoda-store'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_PRAGMA' => 'no-cache'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_REFERER' => 'http://imoda-store/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => 'PHPSESSID=tj4f1525j12fa1s8k1ok3ka0b1; _csrf=3392bc2fb73b1f3b5dc0fb2c545f284fbe6b90eb7c59fe9e6c1d2bd39eaec21ca%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%CBhv%3F%CD%D5F%E0%CD%F5WS%86%EFf%80%C1%12%CB%A9%10%A1%FCXF%2CChM-%0D%F7%22%3B%7D; dcjq-accordion=0%2C1%2C2'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.18 (Ubuntu) Server at imoda-store Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.18 (Ubuntu)'
+    'SERVER_NAME' => 'imoda-store'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/var/www/modastore'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/var/www/modastore'
+    'SERVER_ADMIN' => 'webmaster@localhost'
+    'SCRIPT_FILENAME' => '/var/www/modastore/web/index.php'
+    'REMOTE_PORT' => '60348'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/web/'
+    'SCRIPT_NAME' => '/web/index.php'
+    'PHP_SELF' => '/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1507569957.376
+    'REQUEST_TIME' => 1507569957
+]
+2017-10-09 17:26:02 [127.0.0.1][-][tj4f1525j12fa1s8k1ok3ka0b1][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "web/". in /var/www/modastore/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/modastore/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('web/', Array)
+#1 /var/www/modastore/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /var/www/modastore/web/index.php(15): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°. in /var/www/modastore/vendor/yiisoft/yii2/web/Application.php:114
+Stack trace:
+#0 /var/www/modastore/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /var/www/modastore/web/index.php(15): yii\base\Application->run()
+#2 {main}
+2017-10-09 17:26:02 [127.0.0.1][-][tj4f1525j12fa1s8k1ok3ka0b1][info][application] $_COOKIE = [
+    'PHPSESSID' => 'tj4f1525j12fa1s8k1ok3ka0b1'
+    '_csrf' => '3392bc2fb73b1f3b5dc0fb2c545f284fbe6b90eb7c59fe9e6c1d2bd39eaec21ca:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"Ëhv?ÍÕFàÍõWS†ïf€ÁË©¡üXF,ChM-÷\";}'
+    'dcjq-accordion' => '0,1,2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'imoda-store'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_REFERER' => 'http://imoda-store/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => 'PHPSESSID=tj4f1525j12fa1s8k1ok3ka0b1; _csrf=3392bc2fb73b1f3b5dc0fb2c545f284fbe6b90eb7c59fe9e6c1d2bd39eaec21ca%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%CBhv%3F%CD%D5F%E0%CD%F5WS%86%EFf%80%C1%12%CB%A9%10%A1%FCXF%2CChM-%0D%F7%22%3B%7D; dcjq-accordion=0%2C1%2C2'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.18 (Ubuntu) Server at imoda-store Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.18 (Ubuntu)'
+    'SERVER_NAME' => 'imoda-store'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/var/www/modastore'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/var/www/modastore'
+    'SERVER_ADMIN' => 'webmaster@localhost'
+    'SCRIPT_FILENAME' => '/var/www/modastore/web/index.php'
+    'REMOTE_PORT' => '60348'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/web/'
+    'SCRIPT_NAME' => '/web/index.php'
+    'PHP_SELF' => '/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1507569962.625
+    'REQUEST_TIME' => 1507569962
+]
